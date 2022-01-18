@@ -1,0 +1,36 @@
+Week 1:
+Day 1
+-->Introduction 
+
+What is JavaScript?
+What can you do with it?
+Where does JavaScript code run?
+JavaScript vs ECMAScript
+
+------>Setting up the Development
+ Environment
+
+----->JavaScript in Browsers
+
+---->Separation of Concerns 
+
+-----> JavaScript in node 
+
+----> variables 
+
+-----> constants
+
+Day 2
+--------> Primitive Types
+
+-----> Dynamic Typing
+
+------> objects 
+
+-------> Arrays
+
+
+Day 3
+-----> Functions 
+
+-----> Types of Functions

@@ -1,0 +1,114 @@
+Day 1:
+* JavaScript is a programming lang which is in huge demand
+* by using JavaScript you can design fron end or back end or full stack
+*
+front end developer 
+back end developer(Database MongoDB)
+full stack developer 
+________________________________________________________________
+how to check java script console in the browser?
+
+step 1: open the browser of your choice
+step 2: right click on the browser
+step 3: select inspect
+step 4: goto-->elements and select console
+____________________________________________________________
+Setting up the Development Environment
+editor : vs code
+Development: node 
+
+installation
+vs code
+go to google ---> type vs code
+click on the link of code.visualstudio.com
+then download exe file 
+click on exe file and click next and next and finish
+
+node
+go to google-->type node
+click on nodejs.org link
+and download Lts version
+click on exe file and click next and next and finish
+
+how to check whether node is installed or not?
+goto command prompt-->type command
+
+node -v
+_____________________________________________________________________
+how to run java script file ?
+
+we can run javascript program in two ways either 
+in 
+browswer or node
+
+in the browser:
+step 1:
+open the cmd
+step 2:
+create a working folder or workspace or project in E drive or any drive
+eg:
+mkdir jsdemo
+step 3:
+navigate to workspace
+cd jsdemo
+step 4: open vs code
+code .
+step 5: 
+create a file called index.html
+step 6:
+in the left panel of the vscode visit the extensions
+step 7:
+in the search type live server and install
+step 8: write the code in index.html
+<html>
+<body>
+<h1>hello</h1>
+</body>
+</html>
+step 9: right click on the index.html file and run with liver server
+step 10: add script elements
+<script>
+onsole.log("hello from js")
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
