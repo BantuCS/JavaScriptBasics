@@ -1,0 +1,47 @@
+Spearation of concern
+javascript logic will be present in another file and it is linked to an html
+eg:
+index.html
+<html>
+    <body>
+        <h1>hello this is js class</h1>
+    </body>
+    <script src="index.js"></script>
+</html>
+index.js
+console.log("hello this is js class from js console");
+
+how to run a javascript file in node
+
+step1
+create a file called index.js
+step2 
+go to the terminal in vs code 
+and go to cmd 
+step3
+navigate to the folder where your code exists
+cd foldername
+step4 run the javascript file in the command prompt(terminal)
+node filename.js
+
+
+Variables
+to declare a variables in javascript we use 'let' keyword
+eg:
+let a=10;
+let name='anil';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
