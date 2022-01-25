@@ -1,0 +1,73 @@
+Dynamic typing
+types of values 
+object
+array
+
+types of values
+1. Primitive types 
+let a=10; //Number
+let name='anil'; //String
+let flag=true; //Boolean
+let select=null; //null
+let b;//undefined 
+
+2. user defined
+object
+array
+function
+
+Run js file
+node index.js
+
+Object:
+object is a real time entity and it will have properties 
+eg:
+Person--->object
+name
+age
+gender
+location
+
+each attribute will have values in above scenario
+Person
+name: 'anil'
+age:30
+gender:male
+location:hyderabad
+
+Syntax to create an object in javascript
+
+datatype objectname= {
+attribute1:value,
+attribute2:value
+};
+
+let person={
+name:'anil',
+age:30,
+gender:'male',
+location:'hyderabad'
+};
+note: JavaScript object notation
+json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
