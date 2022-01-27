@@ -1,0 +1,8 @@
+Array 
+syntax
+let arrayname=[];
+let colourSelected=['blue','red']
+length=2
+index= o to length-1
+colourSelected[0]------------->blue
+colourSelected[1]-------------->red
