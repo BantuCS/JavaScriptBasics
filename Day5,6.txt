@@ -1,0 +1,14 @@
+Date: 29-01-2022
+Trainer: Mr. Anil Kumar. B
+1. simple function creation
+2. execution context
+3. how JavaScript code executed?
+global execution context 
+call stack
+4. hoisting in javascript
+variable
+function
+
+Everything in JavaScript happens inside an exection context
+
+JavaScript is a synchronous single threaded language
