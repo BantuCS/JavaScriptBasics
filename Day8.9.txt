@@ -1,0 +1,34 @@
+Date:05-02-2022
+Project: To-Do Application
+Technical Stack: JavaScript,CSS and HTML
+
+Till Date:
+JavaScript,JavaScript working,JavaScript in a browser and in a node,let,const,var,objects,json,array,string,function
+GEC,call stack,single thread synchrnization
+
+tag:
+<div>
+<li>
+
+project tasks:
+1. add a task
+2. delete a task
+3. mark task as completed
+4. empty shouldnot not be allowed 
+
+to-do 
+index.html
+index.css
+index.js
+
+
+
+
+
+
+
+
+
+
+
+
